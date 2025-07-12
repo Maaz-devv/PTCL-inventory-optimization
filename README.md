@@ -62,7 +62,7 @@ PTCL’s field teams often face stockouts and overstocking of critical materials
 
 ---
 
-## 📊 Key Impact (Assumptions Based on Simulated PTCL Data)
+## 📊 Key Impact 
 
 - 📉 Estimated **10–15% reduction** in material stockouts across plants
 - 🕒 Better demand anticipation for 4-week rolling windows
