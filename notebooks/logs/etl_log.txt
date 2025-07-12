@@ -1,0 +1,86 @@
+2025-06-24 13:10:17,904 - INFO - \U0001f680 Starting ETL process
+2025-06-24 13:10:18,067 - INFO - \u2705 sheet1_clean columns are valid.
+2025-06-24 13:10:18,067 - INFO - \u2705 sto1_clean columns are valid.
+2025-06-24 13:10:18,538 - INFO - \u2705 Data successfully loaded into MySQL
+2025-06-24 13:10:44,837 - INFO - \U0001f680 Starting ETL process
+2025-06-24 13:10:44,995 - INFO - \u2705 sheet1_clean columns are valid.
+2025-06-24 13:10:44,996 - INFO - \u2705 sto1_clean columns are valid.
+2025-06-24 13:10:45,486 - INFO - \u2705 Data successfully loaded into MySQL
+2025-06-25 15:01:44,676 - INFO - \U0001f680 Starting ETL process
+2025-06-25 15:01:44,868 - INFO - \u2705 Sheet1 rows after deduplication: 2450
+2025-06-25 15:01:44,868 - INFO - \u2705 STO1 rows after deduplication: 2447
+2025-06-25 15:01:44,897 - INFO - \u2705 sheet1_clean columns are valid.
+2025-06-25 15:01:44,897 - INFO - \u2705 sto1_clean columns are valid.
+2025-06-25 15:01:45,468 - INFO - \u2705 Data successfully loaded into MySQL
+2025-06-25 15:02:26,561 - INFO - \U0001f680 Starting ETL process
+2025-06-25 15:02:26,704 - INFO - \u2705 Sheet1 rows after deduplication: 2450
+2025-06-25 15:02:26,705 - INFO - \u2705 STO1 rows after deduplication: 2447
+2025-06-25 15:02:26,724 - INFO - \u2705 sheet1_clean columns are valid.
+2025-06-25 15:02:26,724 - INFO - \u2705 sto1_clean columns are valid.
+2025-06-25 15:02:27,177 - INFO - \u2705 Data successfully loaded into MySQL
+2025-06-25 15:42:12,071 - INFO - \U0001f680 Starting ETL process
+2025-06-25 15:42:12,276 - ERROR - \u274c ETL failed:
+2025-06-25 15:42:12,277 - ERROR - '>' not supported between instances of 'str' and 'datetime.date'
+2025-06-25 15:51:22,632 - INFO - \U0001f680 Starting ETL process
+2025-06-25 15:51:22,813 - INFO - \u2705 sheet1_clean columns are valid.
+2025-06-25 15:51:22,813 - INFO - \u2705 sto1_clean columns are valid.
+2025-06-25 15:51:22,926 - ERROR - \u274c ETL process failed:
+2025-06-25 15:51:22,926 - ERROR - You are trying to merge on datetime64[ns] and object columns. If you wish to proceed you should use pd.concat
+2025-06-25 15:56:15,138 - INFO - \U0001f680 Starting ETL process
+2025-06-25 15:56:15,311 - INFO - \u2705 sheet1_clean columns are valid.
+2025-06-25 15:56:15,311 - INFO - \u2705 sto1_clean columns are valid.
+2025-06-25 15:56:15,441 - ERROR - \u274c ETL process failed:
+2025-06-25 15:56:15,441 - ERROR - You are trying to merge on datetime64[ns] and object columns. If you wish to proceed you should use pd.concat
+2025-06-25 15:58:29,137 - INFO - \U0001f680 Starting ETL process
+2025-06-25 15:58:29,371 - INFO - \u2705 sheet1_clean columns are valid.
+2025-06-25 15:58:29,371 - INFO - \u2705 sto1_clean columns are valid.
+2025-06-25 15:58:29,485 - ERROR - \u274c ETL process failed:
+2025-06-25 15:58:29,485 - ERROR - You are trying to merge on datetime64[ns] and object columns. If you wish to proceed you should use pd.concat
+2025-06-25 22:15:06,135 - INFO - \U0001f680 Starting ETL process
+2025-06-25 22:15:06,479 - INFO - \u2705 sheet1_clean columns are valid.
+2025-06-25 22:15:06,479 - INFO - \u2705 sto1_clean columns are valid.
+2025-06-25 22:15:06,903 - INFO - \u2705 2450 rows loaded into raw_sheet1
+2025-06-25 22:15:07,230 - INFO - \u2705 2447 rows loaded into raw_sto1
+2025-06-25 22:15:07,230 - INFO - \U0001f389 ETL process completed successfully!
+2025-06-26 15:06:15,804 - INFO - \U0001f680 Starting ETL process
+2025-06-26 15:06:16,028 - INFO - \u2705 sheet1_clean columns are valid.
+2025-06-26 15:06:16,028 - INFO - \u2705 sto1_clean columns are valid.
+2025-06-26 15:06:16,101 - ERROR - \u274c ETL process failed:
+2025-06-26 15:06:16,101 - ERROR - You are trying to merge on datetime64[ns] and object columns. If you wish to proceed you should use pd.concat
+2025-06-26 15:10:24,609 - INFO - \U0001f680 Starting ETL process
+2025-06-26 15:10:24,800 - INFO - \u2705 sheet1_clean columns are valid.
+2025-06-26 15:10:24,800 - INFO - \u2705 sto1_clean columns are valid.
+2025-06-26 15:10:24,862 - ERROR - \u274c ETL process failed:
+2025-06-26 15:10:24,862 - ERROR - You are trying to merge on datetime64[ns] and object columns. If you wish to proceed you should use pd.concat
+2025-06-26 15:20:12,630 - INFO - \U0001f680 Starting ETL process
+2025-06-26 15:20:12,820 - INFO - \u2705 sheet1_clean columns are valid.
+2025-06-26 15:20:12,820 - INFO - \u2705 sto1_clean columns are valid.
+2025-06-26 15:20:12,884 - ERROR - \u274c ETL process failed:
+2025-06-26 15:20:12,884 - ERROR - You are trying to merge on datetime64[ns] and object columns. If you wish to proceed you should use pd.concat
+2025-06-26 15:26:19,297 - INFO - \U0001f680 Starting ETL process
+2025-06-26 15:26:19,494 - INFO - \u2705 sheet1_clean columns are valid.
+2025-06-26 15:26:19,494 - INFO - \u2705 sto1_clean columns are valid.
+2025-06-26 15:26:19,542 - ERROR - \u274c ETL process failed:
+2025-06-26 15:26:19,542 - ERROR - You are trying to merge on datetime64[ns] and object columns. If you wish to proceed you should use pd.concat
+2025-06-26 15:43:02,368 - INFO - \U0001f680 Starting ETL process
+2025-06-26 15:43:02,553 - INFO - \u2705 sheet1_clean columns are valid.
+2025-06-26 15:43:02,553 - INFO - \u2705 sto1_clean columns are valid.
+2025-06-26 15:43:02,867 - INFO - \u2705 2450 rows loaded into raw_sheet1
+2025-06-26 15:43:03,144 - INFO - \u2705 2447 rows loaded into raw_sto1
+2025-06-26 15:43:03,144 - INFO - \U0001f389 ETL process completed successfully!
+2025-06-26 16:17:43,985 - INFO - \U0001f680 Starting ETL process
+2025-06-26 16:17:45,453 - INFO - \u2705 sheet1_clean columns are valid.
+2025-06-26 16:17:45,453 - INFO - \u2705 sto1_clean columns are valid.
+2025-06-26 16:17:45,533 - ERROR - \u274c ETL process failed:
+2025-06-26 16:17:45,533 - ERROR - You are trying to merge on datetime64[ns] and object columns. If you wish to proceed you should use pd.concat
+2025-06-26 16:18:44,286 - INFO - \U0001f680 Starting ETL process
+2025-06-26 16:18:45,806 - INFO - \u2705 sheet1_clean columns are valid.
+2025-06-26 16:18:45,806 - INFO - \u2705 sto1_clean columns are valid.
+2025-06-26 16:18:45,886 - ERROR - \u274c ETL process failed:
+2025-06-26 16:18:45,886 - ERROR - You are trying to merge on datetime64[ns] and object columns. If you wish to proceed you should use pd.concat
+2025-06-26 16:20:02,863 - INFO - \U0001f680 Starting ETL process
+2025-06-26 16:20:04,374 - INFO - \u2705 sheet1_clean columns are valid.
+2025-06-26 16:20:04,374 - INFO - \u2705 sto1_clean columns are valid.
+2025-06-26 16:20:04,734 - INFO - \u2705 2450 rows loaded into raw_sheet1
+2025-06-26 16:20:05,095 - INFO - \u2705 2447 rows loaded into raw_sto1
+2025-06-26 16:20:05,095 - INFO - \U0001f389 ETL process completed successfully!
